@@ -2,9 +2,9 @@
 title: 'First Task - Getting Started'
 position: 1
 category: 'Basics'
-preparation: true
+preparation: false
 estimated_time_in_minutes: 10
-always_unlocked: true
+always_unlocked: false
 
 # Git Integration
 git_tag_completed: solution-01-first-task
