@@ -35,7 +35,7 @@ Create an AI Assistant with 3 tools: Weather Lookup, Google Sheets, and HTTP Req
 
 2. **Tool 1: Weather Lookup**
    - Add an OpenWeatherMap Node
-   - API Key: `550d2e136cd5093e046b1d2b5eba0ea3`
+   - Use the OpenWeatherMap credentials (already configured in your N8N environment)
    - Connect it as a tool to the AI Agent
    - Tool Description: "Get current weather information for any city"
 
